@@ -30,3 +30,16 @@ a:link, a:visited {
   gap: 60px;
     display: flex;
 }
+table,th,td{
+    border: dashed 3px;
+   border-collapse: collapse;
+   padding: 12px;
+   
+   
+}
+.center {
+border-radius: 30;
+}
+.color{
+    color: aqua;
+}
